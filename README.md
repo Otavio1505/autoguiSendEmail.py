@@ -28,7 +28,7 @@ A interface do Aplicativo, será posicionada à esquerda da tela. A Área de Tra
 
 ![a](https://user-images.githubusercontent.com/84475339/168176047-001fddfd-145c-43eb-a122-c65f0aca81d2.png)
 
-Deste modo, o mouse de forma automática, irá localizar o arquivo e o arrastar e o anexar ao Email e executará o envio.
+Deste modo, o mouse de forma automática, irá localizar o arquivo e o arrastar e anexar ao Email e executará o envio.
 
 ![a](https://user-images.githubusercontent.com/84475339/168176189-e83ebcd8-6b02-43b3-9bdd-60a005fa8b74.png)
 

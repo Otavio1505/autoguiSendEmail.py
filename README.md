@@ -24,7 +24,7 @@ Ao iniciar a automação, será aberto o Aplicativo: Email (Windows 11) pela bar
 
 Com o Aplicativo no Menu Principal, o mouse de forma automática, irá clicar na janela 'Nova Mensagem'. E irá inserir o Email do Destinatário, digitado no input antes do início da automação.
 
-A interface do Aplicativo, será posicionada à esquerda da tela. A Área de Trabalho estará localizada no lado direito da tela, onde estará devidamente posicionado o Arquivo desejado.
+A interface do Aplicativo, será posicionada à esquerda da tela. A Área de Trabalho estará localizada no lado direito, onde estará devidamente posicionado o Arquivo desejado.
 
 ![a](https://user-images.githubusercontent.com/84475339/168176047-001fddfd-145c-43eb-a122-c65f0aca81d2.png)
 
